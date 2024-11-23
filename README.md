@@ -25,4 +25,5 @@
 
   </br> Responsive </p>
 
-![Netflix](https://github.com/user-attachments/assets/912e694f-867b-4ed0-a475-dcea806826c2)
+![netflix](https://github.com/user-attachments/assets/d6220770-aa8d-47df-8e82-6ef082321c56)
+
