@@ -23,7 +23,7 @@ const Hero = () => {
      </div>
     <div>
         <img className='max -h-[300px] hero-img my-4 object-contain'
-        src="/images (29).jpeg" 
+        src="/sinema.png" 
         alt="" 
         />
      </div>

@@ -31,8 +31,9 @@ api
       <h1 className='text-3xl font-semibold mb-3'>{genre.name}</h1>
        <Splide options ={{
         pagination: false,
-        autowidth:true,
+        autoWidth:true,
         lazyLoad: true,
+        gap:"10px"
        }}>
         {movies.map((movie)=>(
 <SplideSlide key ={movie.id}>
